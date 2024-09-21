@@ -5,3 +5,4 @@ brunno = 1
 
 puts
 Esse Brunno é safado, deixou o trabalho pra ficar de namorico
+Vou é dormir. zzzzzzzzzzz
